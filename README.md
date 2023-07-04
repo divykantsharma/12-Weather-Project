@@ -20,4 +20,7 @@ The term "nodemon" refers to a widely used tool in the Node.js ecosystem called 
 1. API stands for Application Programming Interface. It is a set of rules and protocols that allows different software applications to communicate and interact with each other. APIs define the methods and formats for requesting and exchanging data between systems, enabling seamless integration and interoperability.
 2. In simpler terms, an API acts as an intermediary between different software applications, allowing them to access each other's functionalities and data. It provides a standardized way for developers to interact with a system or service, abstracting away the complexities of the underlying implementation.
 
+-> What is Open weather API , that we used in our project ??
+1. The OpenWeatherAPI is a service that provides weather data and related information for various locations worldwide. It allows developers to access current weather conditions, forecasts, historical data, and other weather-related information programmatically.
+2. By integrating the OpenWeatherAPI into their applications or websites, developers can retrieve weather data for specific locations, including temperature, humidity, wind speed, atmospheric pressure, precipitation, and more. The API supports various data formats, including JSON and XML, making it easy to consume and work with the weather data.
 
