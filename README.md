@@ -13,6 +13,7 @@ Made this project with the help of Open Weather API , with the help of JavaScrip
 3. ":3000": It represents the port number on which the server is listening. Ports are used to distinguish different services or processes running on a single machine. Port 3000 is often used as the default port for web development servers, including those based on Node.js and Express.js.
 
 -> What is NODEMON ??
+
 The term "nodemon" refers to a widely used tool in the Node.js ecosystem called "nodemon" (short for Node Monitor). Nodemon is a command-line utility that helps in the development of Node.js applications by automatically restarting the application whenever changes are detected in the source code files. It is particularly useful during the development process as it saves developers from manually stopping and restarting the server every time they make changes to the code.
 
 -> What is an API ??
