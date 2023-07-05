@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+}
+.img{
+  height : 100vh;
+  width: 100vw;
+  opacity: 0.4;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  position: relative;
+  bottom: 80vh;
+  left: 10rem;
+}
+h1{
+  display: inline-block;
+}
