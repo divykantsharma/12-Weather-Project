@@ -1,5 +1,5 @@
 # 12-Weather-Project
-Made this project with the help of Open Weather API , with the help of JavaScript using Express framework in Node.js
+Made this project using Open Weather API , with the help of JavaScript using Express framework in Node.js
 
 -> JavaScript is a high-level, interpreted programming language primarily used for building interactive and dynamic web pages. It is a scripting language that runs on the client-side (in the web browser) and, more recently, on the server-side (with the introduction of platforms like Node.js).
 
